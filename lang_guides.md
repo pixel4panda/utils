@@ -5,7 +5,7 @@ https://manual.cs50.io/
 https://docs.python.org/3/library/functions.html
 
 #### Web Development
-https://developer.mozilla.org/en-US/docs/Web
+https://developer.mozilla.org/en-US/docs/Web  
 https://validator.w3.org/
 
 #### For dummies version of multiple languages
