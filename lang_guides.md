@@ -9,8 +9,8 @@ https://docs.python.org/3/library/functions.html
 #### Web Development
 https://developer.mozilla.org/en-US/docs/Web  
 https://validator.w3.org/
->>##### CSS
->>https://getbootstrap.com/
+>##### Frameworks
+>https://getbootstrap.com/
 
 
 #### For dummies version of multiple languages
